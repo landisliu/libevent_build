@@ -1,0 +1,198 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft(R) ��������汾 4.8.3761.0
+[Microsoft .NET Framework �汾 4.0.30319.42000]
+��Ȩ����(C) Microsoft Corporation 2007����������Ȩ����
+
+��������ʱ��Ϊ 2020/1/21 15:25:28��
+�ڵ� 1 �ϵ���Ŀ��E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\3.14.0\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CompilerIdC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\3.14.0\CompilerIdC\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\3.14.0\CompilerIdC\.\CompilerIdC.exe
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\CompilerIdC.exe;#1" /manifest Debug\CompilerIdC.exe.intermediate.manifest
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\3.14.0\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:00.38
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/3.14.0/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_6676d.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6676d.dir\Debug\\" /Fd"cmTC_6676d.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+  cmTC_6676d.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_6676d.exe
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_a64a7.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_a64a7.dir\Debug\\" /Fd"cmTC_a64a7.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+  cmTC_a64a7.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_a64a7.exe
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_36697.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_36697.dir\Debug\\" /Fd"cmTC_36697.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue ..\feature_tests.c
+  
+  feature_tests.c
+  cmTC_36697.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_36697.exe
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining size of struct in6_addr passed with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_3edc8.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_3edc8.dir\Debug\\" /Fd"cmTC_3edc8.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue ..\CheckTypeSize\EVENT__HAVE_STRUCT_IN6_ADDR.c
+  
+  EVENT__HAVE_STRUCT_IN6_ADDR.c
+  cmTC_3edc8.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_3edc8.exe
+
+
+Determining size of struct sockaddr_in6 passed with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_07cca.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_07cca.dir\Debug\\" /Fd"cmTC_07cca.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue ..\CheckTypeSize\EVENT__HAVE_STRUCT_SOCKADDR_IN6.c
+  
+  EVENT__HAVE_STRUCT_SOCKADDR_IN6.c
+  cmTC_07cca.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_07cca.exe
+
+
+Determining size of struct sockaddr_storage passed with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_78336.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_78336.dir\Debug\\" /Fd"cmTC_78336.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue ..\CheckTypeSize\EVENT__HAVE_STRUCT_SOCKADDR_STORAGE.c
+  
+  EVENT__HAVE_STRUCT_SOCKADDR_STORAGE.c
+  cmTC_78336.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_78336.exe
+
+
+Performing C SOURCE FILE Test EVENT__HAVE_STRUCT_SOCKADDR_STORAGE_SS_FAMILY succeeded with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_1fc38.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D EVENT__HAVE_STRUCT_SOCKADDR_STORAGE_SS_FAMILY /D WIN32_LEAN_AND_MEAN /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_1fc38.dir\Debug\\" /Fd"cmTC_1fc38.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue src.c
+  
+  src.c
+  cmTC_1fc38.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_1fc38.exe
+
+Source file was:
+
+#include <winsock2.h>
+#include <ws2tcpip.h>
+
+int main()
+{
+   (void)sizeof(((struct sockaddr_storage *)0)->ss_family);
+   return 0;
+}
+
+Determining size of struct linger passed with the following output:
+Change Dir: E:/Team Building/learn/libevent-2.1.11-stable/libevent-2.1.11-stable/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe cmTC_be527.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=10.0 /v:m 
+Microsoft(R) 生成引擎版本 4.8.3761.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.40219.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_be527.dir\Debug\\" /Fd"cmTC_be527.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue ..\CheckTypeSize\EVENT__HAVE_STRUCT_LINGER.c
+  
+  EVENT__HAVE_STRUCT_LINGER.c
+  cmTC_be527.vcxproj -> E:\Team Building\learn\libevent-2.1.11-stable\libevent-2.1.11-stable\build\CMakeFiles\CMakeTmp\Debug\cmTC_be527.exe
+
+
