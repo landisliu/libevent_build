@@ -1,0 +1,2 @@
+# libevent_build
+libevent_windows_build environment
